@@ -10,6 +10,8 @@ namespace modul5_103022300046
             int terbesar = PemrosesData.DapatkanNilaiTerbesar(10, 30, 22);
 
             Console.WriteLine(terbesar);
+
+           
         }
     }
 }
